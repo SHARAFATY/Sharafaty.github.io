@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://quicksilver-lab.github.io/PixelPrisms/sitemap.xml
+Sitemap: https://Sharafaty.github.io/sitemap.xml
