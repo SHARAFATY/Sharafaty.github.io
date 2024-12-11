@@ -212,7 +212,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 }
 .prt_home_wrapper h1 {
     position: absolute;
-    top: 50%;
+    top: -50%;
     font-size: 150px;
     color: #ffffff; /* Fallback color */
     font-weight: bold;
@@ -225,7 +225,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 
     /* Background image settings */
     background-size: cover;
-    background-position: -41px -85px;
+    background-position: -100px -85px; /* Adjusted value to move the image to the left */
 }
 
 .prt_logo_wrapper img{
