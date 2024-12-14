@@ -1,0 +1,28 @@
+{
+  "template": "# Changelog\n\nAll notable changes to this project will be documented in this file.\n\n{{#categories}}\n## {{title}}\n\n{{#items}}\n- {{text}}\n{{/items}}\n{{/categories}}",
+  "categories": [
+    {
+      "title": "✨ Features",
+      "labels": ["feature", "enhancement"]
+    },
+    {
+      "title": "🐛 Bug Fixes",
+      "labels": ["bug", "fix"]
+    },
+    {
+      "title": "🛠 Maintenance",
+      "labels": ["chore", "maintenance"]
+    },
+    {
+      "title": "📝 Documentation Updates",
+      "labels": ["documentation", "docs"]
+    }
+  ],
+  "ignore_labels": ["wontfix", "duplicate", "invalid"],
+  "sort": "ASC",
+  "change_title": true,
+  "pr_template": "- {{title}} (#{{number}}) by @{{author}}",
+  "issues_template": "- {{title}} (#{{number}}) by @{{author}}",
+  "include_open_issues": false,
+  "include_unlabeled": true
+}
