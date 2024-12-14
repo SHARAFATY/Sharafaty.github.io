@@ -1,0 +1,18 @@
+name: Generate Changelog
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Changelog
+        uses: mikepenz/release-changelog-builder-action@v2
+        with:
+          configuration: .github/changelog-config.json
