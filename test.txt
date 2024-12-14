@@ -1,0 +1,94 @@
+<div class="prt_portfolio_box popup-gallery">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 prt_loadmore">
+						<a class="imageopen" href="images/content/port1_big.jpg" title="">
+							<div class="prt_portfolio_img">
+								<img src="images/content/port1.jpg" alt="Portfolio">
+								<div class="prt_portfolio_text">
+									<h4>Seed Cafe UI Design</h4>
+									<p>Experience intuitive and delightful user interfaces with Seed Café. Our designs blend functionality with aesthetics.</p>
+								</div>
+							</div>
+						</a>
+						<a class="popup-youtube" href="https://www.behance.net/embed/project/210301173?ilo0=1" title="">
+							<div class="prt_portfolio_img">
+								<img src="images/content/port2.jpg" alt="Portfolio">
+								<div class="prt_portfolio_text">
+									<h4>LS-Tech</h4>
+									<p>Introducing LS-Tech, a leading tech company based in Nigeria. With a strong focus on innovation and cutting-edge technology.</p>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 prt_loadmore">
+						<a class="popup-youtube" href="https://www.behance.net/embed/project/202112971?ilo0=1" title="">
+							<div class="prt_portfolio_img">
+								<img src="images/content/port3.jpg" alt="Portfolio">
+								<div class="prt_portfolio_text">
+									<h4>Portfolio</h4>
+									<p>A Portfolio website created for QuickSilver</p>
+								</div>
+							</div>
+						</a>
+						<a class="imageopen" href="images/content/port4_big.jpg" title="">
+							<div class="prt_portfolio_img">
+								<img src="images/content/port4.png" alt="Portfolio">
+								<div class="prt_portfolio_text">
+									<h4>box mockup design</h4>
+									<p>Mockup</p>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 prt_loadmore">
+						<a class="popup-youtube" href="https://www.google.com/maps/@31.5925148,74.309485,0a,19.9y,3.07h,60.02t/data=!3m4!1e1!3m2!1sAF1QipMx1bdZRA1n_YusbKGDYYEJDEAJDQ8WKjSbZQ6Q!2e10?source=apiv3" width="600" height="450" style="border:0;" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups" title="SadaaCodes">
+							<div class="prt_portfolio_img">
+								<img src="images/content/port5.jpg" alt="Portfolio">
+								<div class="prt_portfolio_text">
+									<h4>SadaaCodes</h4>
+									<p>Portfolio Site for Mr Sadaqat Ali</p>
+								</div>
+							</div>
+						</a>
+						<a class="imageopen" href="images/content/port6.jpg" title="">
+							<div class="prt_portfolio_img">
+								<img src="images/content/port6_big.jpg" alt="Portfolio">
+								<div class="prt_portfolio_text">
+									<h4>box mockup design</h4>
+									<p>Mockup</p>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 prt_loadmore">
+						<a class="popup-youtube" href="https://quicksilver-lab.github.io/Samurai-Fighter/" title="">
+							<div class="prt_portfolio_img">
+								<img src="images/content/7b.jpg" alt="Portfolio">
+								<div class="prt_portfolio_text">
+									<h4>Samurai Fighter</h4>
+									<p>Samurai Fighter, a two-player game where players engage in epic battles as skilled samurai warriors!</p>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 prt_loadmore">
+						<a class="popup-youtube" href="https://www.behance.net/embed/project/210301173?ilo0=1" title="">
+							<div class="prt_portfolio_img">
+								<img src="images/content/port8.jpg" alt="Portfolio">
+								<div class="prt_portfolio_text">
+									<h4>Shoper</h4>
+									<p>Your Ultimate Destination for Online Shopping </p>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 prt_loadmore">
+						<a class="imageopen" href="images/content/4.gif" title="">
+							<div class="prt_portfolio_img">
+								<img src="images/content/1.jpg" alt="Portfolio">
+								<div class="prt_portfolio_text">
+									<h4>Fast Food</h4>
+									<p>Fast Food Designe</p>
+								</div>
+							</div>
+						</a>
+					</div>
