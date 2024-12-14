@@ -92,3 +92,7 @@
 							</div>
 						</a>
 					</div>
+
+
+
+                    <iframe src="https://www.google.com/maps/embed?pb=!4v1734157977197!6m8!1m7!1sCAoSLEFGMVFpcE14MWJkWlJBMW5fWXVzYktHRFlZRUpERUFKRFE4V0tqU2JaUTZR!2m2!1d31.59251478968542!2d74.30948496476!3f2.7134863029679153!4f-31.291782357499827!5f2.911054635699792" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
