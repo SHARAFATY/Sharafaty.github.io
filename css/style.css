@@ -213,12 +213,12 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_home_wrapper h1 {
     position: absolute;
     top: -50%;
-    font-size: 150px;
+    font-size: 100px;
     color: #ffffff; /* Fallback color */
     font-weight: bold;
 
     /* Background with clipping */
-    background: url(../images/content/banner_text_bg.jpg) no-repeat;
+    background: url(../images/content/banner_text_bg.jpg);
     background-clip: text; /* Standard property for broader compatibility */
     -webkit-background-clip: text; /* Vendor prefix for WebKit browsers */
     -webkit-text-fill-color: transparent; /* Makes text transparent for background to show through */
